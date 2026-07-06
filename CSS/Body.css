@@ -83,8 +83,7 @@ margin-bottom: 2%;
     border-radius: 50%;
     
 }
-.textoselec{
-}
+
 .text1{
     width: 100%;
     height: auto;
@@ -210,9 +209,7 @@ font-style: italic;
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
 }
-.carousel::-webkit-scrollbar{
-    
-}
+
 .group{
     display: flex;
     align-items: center;
